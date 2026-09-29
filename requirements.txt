@@ -1,0 +1,4 @@
+# Install into ComfyUI's existing Python environment only.
+# torch and ComfyUI itself are provided by the host installation.
+numpy
+Pillow>=9.1.0
